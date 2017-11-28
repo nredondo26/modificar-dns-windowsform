@@ -1,0 +1,10 @@
+C:\Users\Nelson Redondo\source\repos\modificar dns\Dnsform\bin\Debug\Dnsform.exe.config
+C:\Users\Nelson Redondo\source\repos\modificar dns\Dnsform\bin\Debug\Dnsform.exe
+C:\Users\Nelson Redondo\source\repos\modificar dns\Dnsform\bin\Debug\Dnsform.pdb
+C:\Users\Nelson Redondo\source\repos\modificar dns\Dnsform\obj\Debug\Dnsform.csprojResolveAssemblyReference.cache
+C:\Users\Nelson Redondo\source\repos\modificar dns\Dnsform\obj\Debug\Dnsform.Form1.resources
+C:\Users\Nelson Redondo\source\repos\modificar dns\Dnsform\obj\Debug\Dnsform.Properties.Resources.resources
+C:\Users\Nelson Redondo\source\repos\modificar dns\Dnsform\obj\Debug\Dnsform.csproj.GenerateResource.Cache
+C:\Users\Nelson Redondo\source\repos\modificar dns\Dnsform\obj\Debug\Dnsform.csproj.CoreCompileInputs.cache
+C:\Users\Nelson Redondo\source\repos\modificar dns\Dnsform\obj\Debug\Dnsform.exe
+C:\Users\Nelson Redondo\source\repos\modificar dns\Dnsform\obj\Debug\Dnsform.pdb
