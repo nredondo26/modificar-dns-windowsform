@@ -32,6 +32,7 @@
             this.nortodns = new System.Windows.Forms.Button();
             this.Originales = new System.Windows.Forms.Button();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
+            this.googlesafesearch = new System.Windows.Forms.Button();
             this.groupBox1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -77,11 +78,22 @@
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "DNS";
             // 
+            // googlesafesearch
+            // 
+            this.googlesafesearch.Location = new System.Drawing.Point(140, 31);
+            this.googlesafesearch.Name = "googlesafesearch";
+            this.googlesafesearch.Size = new System.Drawing.Size(103, 23);
+            this.googlesafesearch.TabIndex = 4;
+            this.googlesafesearch.Text = "Google Seguro";
+            this.googlesafesearch.UseVisualStyleBackColor = true;
+            this.googlesafesearch.Click += new System.EventHandler(this.googlesafesearch_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(491, 318);
+            this.Controls.Add(this.googlesafesearch);
             this.Controls.Add(this.groupBox1);
             this.Name = "Form1";
             this.Text = "Form1";
@@ -97,6 +109,7 @@
         private System.Windows.Forms.Button nortodns;
         private System.Windows.Forms.Button Originales;
         private System.Windows.Forms.GroupBox groupBox1;
+        private System.Windows.Forms.Button googlesafesearch;
     }
 }
 

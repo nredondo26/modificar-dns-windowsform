@@ -8,3 +8,18 @@ C:\Users\Nelson Redondo\source\repos\modificar dns\Dnsform\obj\Debug\Dnsform.csp
 C:\Users\Nelson Redondo\source\repos\modificar dns\Dnsform\obj\Debug\Dnsform.csproj.CoreCompileInputs.cache
 C:\Users\Nelson Redondo\source\repos\modificar dns\Dnsform\obj\Debug\Dnsform.exe
 C:\Users\Nelson Redondo\source\repos\modificar dns\Dnsform\obj\Debug\Dnsform.pdb
+C:\Users\Nelson Redondo\Desktop\modificar-dns-windowsform-master\Dnsform\obj\Debug\Dnsform.csprojResolveAssemblyReference.cache
+C:\Users\Nelson Redondo\Desktop\modificar-dns-windowsform-master\Dnsform\obj\Debug\Dnsform.Form1.resources
+C:\Users\Nelson Redondo\Desktop\modificar-dns-windowsform-master\Dnsform\obj\Debug\Dnsform.Properties.Resources.resources
+C:\Users\Nelson Redondo\Desktop\modificar-dns-windowsform-master\Dnsform\obj\Debug\Dnsform.csproj.GenerateResource.Cache
+C:\Users\Nelson Redondo\Desktop\modificar-dns-windowsform-master\Dnsform\obj\Debug\Dnsform.csproj.CoreCompileInputs.cache
+C:\Users\Nelson Redondo\Desktop\modificar-dns-windowsform-master\Dnsform\obj\Debug\Dnsform.exe
+C:\Users\Nelson Redondo\Desktop\modificar-dns-windowsform-master\Dnsform\obj\Debug\Dnsform.pdb
+C:\Users\Nelson Redondo\Desktop\modificar-dns-windowsform-master\Dnsform\bin\Debug\Dnsform.exe.config
+C:\Users\Nelson Redondo\Desktop\modificar-dns-windowsform-master\Dnsform\bin\Debug\Dnsform.exe
+C:\Users\Nelson Redondo\Desktop\modificar-dns-windowsform-master\Dnsform\bin\Debug\Dnsform.pdb
+C:\Users\Nelson Redondo\Desktop\modificar-dns-windowsform-master\Dnsform\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Nelson Redondo\Desktop\modificar-dns-windowsform-master\Dnsform\bin\Debug\StreamExtended.dll
+C:\Users\Nelson Redondo\Desktop\modificar-dns-windowsform-master\Dnsform\bin\Debug\Titanium.Web.Proxy.dll
+C:\Users\Nelson Redondo\Desktop\modificar-dns-windowsform-master\Dnsform\bin\Debug\BouncyCastle.Crypto.pdb
+C:\Users\Nelson Redondo\Desktop\modificar-dns-windowsform-master\Dnsform\bin\Debug\BouncyCastle.Crypto.xml
